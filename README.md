@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+I am a senior student studying Statistics and Psychology at St. Lawrence University in Canton, NY
+
+I'm currently working on projects for my Data Visualization class
+
+
+
+
 
 <!--
 **cedudley18/cedudley18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
